@@ -1,5 +1,5 @@
 ## 1315. Sum of Nodes with Even-Valued Grandparent 
-<span style='color: rgb(239, 108, 0)'>Medium</span>
+<span style='color: orange'>Medium</span>
 
 ---
 
@@ -44,5 +44,9 @@ The number of nodes in the tree is in the range `[1, 104]`.
 `1 <= Node.val <= 100`
 
 
+### Details:
+<span style='color:green'>Success</span>
 
+*Runtime:* 48 ms, faster than 94.68% of C++ online submissions for Sum of Nodes with Even-Valued Grandparent.
 
+*Memory Usage:* 41.5 MB, less than 43.56% of C++ online submissions for Sum of Nodes with Even-Valued Grandparent.
