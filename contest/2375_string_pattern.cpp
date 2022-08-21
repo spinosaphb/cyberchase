@@ -5,6 +5,7 @@
 #include <functional> 
 using namespace std;
 
+
 string smallestNumber(string pattern) {
     int vet[pattern.length()+1];
     string res="";
